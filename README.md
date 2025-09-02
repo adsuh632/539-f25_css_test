@@ -1,2 +1,2 @@
-# 539-f25_css_test
-CSS from Week 2
+# Intro to CSS Activity
+Week 2 or 3 in-class exercises for intro to CSS

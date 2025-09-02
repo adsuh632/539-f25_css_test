@@ -1,0 +1,12 @@
+h1 {
+    background-color: pink;
+    font-size: 300px;
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
+
+p {background-color: rgb(255, 126, 233); font-size: medium; margin: 1.5em 0; font-weight: lighter;}
+
+h2 {background-color: rgb(126, 233, 255); font-size: large; margin: 1.5em 0; font-weight: lighter;}
+
