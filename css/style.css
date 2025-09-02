@@ -3,10 +3,29 @@ h1 {
     font-size: 300px;
     font-weight: bolder;
     color: white;
+    text-align: center;}
+
+p {background-color: rgb(255, 126, 233); 
+    font-size: 30px; 
+    margin: 1.5em 0; 
+    font-weight: lighter; 
     text-align: center;
+    color: rgb(23, 35, 213);}
+li {border: 2px solid black; 
+    background-color: rgb(150, 240, 183); 
+    font-size: 20px; 
+    margin: 1.5em 0; 
+    font-weight: normal; 
+    text-align: center;}
+
+h2 {background-color: rgb(240, 183, 150); 
+    font-size: 60x; margin: 1.5em 0; 
+    font-weight: bold; 
+    text-align: center;}
+body {background-color: lightblue; 
+    font-family: Arial, sans-serif; 
+    text-align: center;}
+
+.para1 {
+   font-size: 50px;
 }
-
-p {background-color: rgb(255, 126, 233); font-size: medium; margin: 1.5em 0; font-weight: lighter;}
-
-h2 {background-color: rgb(126, 233, 255); font-size: large; margin: 1.5em 0; font-weight: lighter;}
-
